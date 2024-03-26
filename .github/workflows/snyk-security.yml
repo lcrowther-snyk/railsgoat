@@ -1,6 +1,6 @@
 name: Snyk example 
 on: push
-# jobs:
+jobs:
 #   security:
 #     runs-on: ubuntu-latest
 #     steps:
