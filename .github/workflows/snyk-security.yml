@@ -1,8 +1,8 @@
 name: Snyk example 
 on: push
 jobs:
-#   security:
-#     runs-on: ubuntu-latest
+  security:
+    runs-on: ubuntu-latest
 #     steps:
 #     - uses: actions/checkout@master
 #     - uses: snyk/actions/setup@master
