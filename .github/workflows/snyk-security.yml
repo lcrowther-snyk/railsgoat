@@ -1,5 +1,5 @@
-# name: Snyk example 
-# on: push
+name: Snyk example 
+on: push
 # jobs:
 #   security:
 #     runs-on: ubuntu-latest
